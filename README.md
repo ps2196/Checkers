@@ -1,1 +1,3 @@
-Checkers
+## Checkers
+
+Game implemented using Qt.
